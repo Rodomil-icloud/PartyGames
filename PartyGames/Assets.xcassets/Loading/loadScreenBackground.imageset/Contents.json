@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "loadScreenBackground.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
